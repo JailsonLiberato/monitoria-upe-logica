@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main(){
+int main1(){
     int numero1;
     int numero2;
     printf(":::::: Questao 01 ::::::\n\n");
@@ -17,4 +17,5 @@ void main(){
         printf("\nO numero 2 eh maior que o numero 1");
     }
 
+    return 0;
 }
