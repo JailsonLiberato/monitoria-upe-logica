@@ -3,7 +3,7 @@
 int main(){
     int anoNascimento;
     int anoAtual = 2021;
-    printf(":::::: Questao 01 ::::::\n\n");
+    printf(":::::: Questao 02 ::::::\n\n");
     printf("Digite o ano de nascimento: ");
     scanf("%d", &anoNascimento);
 
